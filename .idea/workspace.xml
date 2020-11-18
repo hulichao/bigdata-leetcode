@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ae7c946-3414-44a9-8eda-172ca059305e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:\hu_devlope\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kNSEhEVichiyPjoDCheUvBCzXe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="RunManager">
+    <configuration name="VisitTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hoult.tree.VisitTree" />
+      <module name="bigdata-leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hoult.tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.VisitTree" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ae7c946-3414-44a9-8eda-172ca059305e" name="Default Changelist" comment="" />
+      <created>1605539447540</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605539447540</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="137" key="#com.intellij.ide.util.MemberChooser" timestamp="1605539960888">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="574" y="137" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1605539960888" />
+    <state width="1493" height="33" key="GridCell.Tab.0.bottom" timestamp="1605662651885">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="33" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1605662651885" />
+    <state width="1493" height="33" key="GridCell.Tab.0.center" timestamp="1605662651885">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="33" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1605662651885" />
+    <state width="1493" height="33" key="GridCell.Tab.0.left" timestamp="1605662651885">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="33" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1605662651885" />
+    <state width="1493" height="33" key="GridCell.Tab.0.right" timestamp="1605662651885">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="33" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1605662651885" />
+    <state x="467" y="135" width="602" height="594" key="find.popup" timestamp="1605662587203">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="467" y="135" width="602" height="594" key="find.popup/0.0.1536.864@0.0.1536.864" timestamp="1605662587203" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1605662484683">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1605662484683" />
+  </component>
+</project>
