@@ -40,10 +40,9 @@ public class RecursionClass {
         if (node == null || node.next == null)
             return node;
         //3.拿到递归推导
-
         Node last = f3(node.next);
         node.next.next = node;
-        node.next = null;
+        node.next = null ;//这个的作用是什么?,解开死循环，最后是有A->B,B->A
         return last;
     }
 
