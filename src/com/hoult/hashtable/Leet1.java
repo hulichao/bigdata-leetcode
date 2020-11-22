@@ -1,4 +1,4 @@
-package com.hoult.doublepoint;
+package com.hoult.hashtable;
 
 import java.util.HashMap;
 import java.util.Map;

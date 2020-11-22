@@ -3,7 +3,7 @@ package com.hoult.list;
 public class ToDo {
 
     //常用集合的Api及其工具使用：：背诵
-    //Collections Arrays
+    //Collections Arrays, PrioriTyQueue
     /**
      * 集合存储的是引用数据类型，集合的主要类型有3种，分别是List、Set、Map
      *
