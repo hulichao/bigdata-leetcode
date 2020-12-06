@@ -35,4 +35,23 @@ public class Leet66 {
         return digits;
 
     }
+
+    //写法更简单的
+    public int[] plusOne2(int[] digits) {
+        //想好规律在做，只有99 会变为1 0 0 也即数组被循环完，那么就好做了
+        //这是特殊的加1，而不是加别的比如2，3，4
+        for (int i = digits.length - 1; i >= 0; i--) {
+            if (digits[i] != 9) {
+                digits[i] += 1;
+                return digits;
+            } else {
+                digits[i] = 0;
+            }
+        }
+
+        //全是99，上面循环结束后就都是0
+        int[] result = new int[digits.length + 1];
+        result[0] = 1;
+        return result;
+    }
 }
