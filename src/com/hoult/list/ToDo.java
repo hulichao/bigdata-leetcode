@@ -20,4 +20,8 @@ public class ToDo {
      * 移除此列表的最后一个元素：removeLast(); || pollLast();
      * Tips：此处带remove的方法表示移除并返回，带poll的方法表示获取并移除
      */
+
+    public static void main(String[] args) {
+//        new String().substring()
+    }
 }
