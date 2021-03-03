@@ -1,5 +1,8 @@
 package com.hoult.list;
 
+import javax.swing.tree.TreeNode;
+import java.util.*;
+
 public class ToDo {
 
     //常用集合的Api及其工具使用：：背诵
@@ -22,6 +25,15 @@ public class ToDo {
      */
 
     public static void main(String[] args) {
-//        new String().substring()
+//        Set map = new HashSet<>()
+//        Deque<Integer> stack = new ArrayDeque<>(); //效率比Stack高
+//        System.arraycopy(heights, 0, tmp, 1, heights.length);
+        PriorityQueue<Integer> queu = new PriorityQueue<Integer>((x, y) -> y - x);
+        queu.add(2);
+        queu.add(5);
+        queu.add(1);
+        while (!queu.isEmpty()) {
+            System.out.println(queu.poll());
+        }
     }
 }
